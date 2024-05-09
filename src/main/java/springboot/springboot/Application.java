@@ -9,5 +9,11 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
+	
+	//HIS-1111
+	public void doProcess()
+	{
+		//logic goes here
+	}
 
 }
